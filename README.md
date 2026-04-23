@@ -9,7 +9,7 @@ To explore retail sales data and generate insights on sales trends, category per
 ## Visual Analysis
 
 ### Sales Over Time
-![Sales Trend](sales_trend.png)
+![Sales Trend](sales_over_time.png)
 Sales show an overall upward trend with fluctuations, indicating growth and seasonal demand patterns.
 
 ### Category-wise Sales
@@ -17,15 +17,15 @@ Sales show an overall upward trend with fluctuations, indicating growth and seas
 Certain categories contribute significantly to total revenue, making them key business drivers.
 
 ### Region-wise Comparison
-![Region Sales](region_sales.png)
+![Region Sales](region_profit.png)
 Sales performance varies across regions, highlighting geographical differences in demand.
 
 ### Correlation Heatmap
-![Correlation Heatmap](heatmap.png)
+![Correlation Heatmap](correlation_heatmap.png)
 The heatmap shows relationships between numerical variables. Sales and profit show a positive correlation, while discount negatively impacts profitability.
 
 ### Top 10 Products
-![Top Products](top10_products.png)
+![Top Products](top_products.png)
 A small group of products contributes heavily to revenue, indicating concentration in product performance.
 
 ## Key Insights
